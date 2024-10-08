@@ -24,7 +24,7 @@ interface LabelledInputType {
     placeholder: string;
     type?: string;
 
-    //test1
+   
 }
 
 function LabelledInput({ label, placeholder, type }: LabelledInputType) {
